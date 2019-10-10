@@ -7,7 +7,7 @@ function App() {
   const [state, dispatch] = useReducer(reducer,initalState);
   return (
     <div className="App">
-
+      
     </div>
   );
 }
